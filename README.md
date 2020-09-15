@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-<a href="https://gabristucchi.github.io/" align="center"> START SPICING </a>
+<a href="https://thespicer.github.io/" align="center"> START SPICING </a>
 </h1>
 
 ## How To Use
@@ -60,7 +60,6 @@ Open the Spicer menu by clicking on the window on the bottom or by pressing shif
 3. Press 'R' to start recording, press it again to discard the record.
 4. Press 'P' to pause the recorded loop, press it again to resume.
 5. Press 'Shift' to open/close the Spicer menu.
-
 
 
 ## Features
