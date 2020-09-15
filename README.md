@@ -54,9 +54,9 @@ Open the Spicer menu by clicking on the window on the bottom or by pressing shif
 <img src="https://user-images.githubusercontent.com/57997005/93243208-2c5b1100-f788-11ea-9c56-6f71eafd475b.jpg" alt="Spicer Bar" width="1200"/>
 </p>
 
-* Press the highlighated notes to play without a midi keyboard.
-1. Press 'Q' to transpose the notes from keyboard down an octave.
-2. Press 'W' to transpose the notes from keyboard up an octave.
+* Press the highlighted notes to play without a midi keyboard.
+1. Press 'Q' to transpose the keyboard notes down an octave.
+2. Press 'W' to transpose the keyboard notes up an octave.
 3. Press 'R' to start recording, press it again to discard the record.
 4. Press 'P' to pause the recorded loop, press it again to resume.
 5. Press 'Shift' to open/close the Spicer menu.
